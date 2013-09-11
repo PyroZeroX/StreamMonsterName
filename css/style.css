@@ -1,0 +1,45 @@
+body
+{
+	background-color: #4B8AD1;
+	color: #fff;
+	font-family: Calibri, Tahoma;
+	text-align: center;
+	margin: 30px;
+	padding: 0;
+}
+
+h1
+{
+	margin: 0;
+	font-size: 24pt;
+}
+
+
+p
+{
+	font-size: 16pt;
+	margin: 0;
+}
+
+#alias
+{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+#alias h1
+{
+	font-size: 48pt;
+	text-shadow: 3px 3px #737373;
+}
+
+#tweetlink
+{
+	font-size: 20pt;
+	color: #fff;
+}
+
+#footer p {
+	font-size: 10pt;
+}
